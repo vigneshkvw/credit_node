@@ -1,0 +1,26 @@
+{
+  "name": "telecalling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vignesh waran",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "async-es": "^3.2.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "ip": "^1.1.5",
+    "mongoose": "^5.11.8",
+    "multer": "^1.4.2",
+    "rand-token": "^1.0.1",
+    "sha1": "^1.1.1",
+    "validator": "^13.5.2"
+  }
+}
